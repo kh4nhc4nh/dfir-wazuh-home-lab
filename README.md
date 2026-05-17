@@ -1,4 +1,4 @@
-# dfir-wazuh-home-lab
+# DFIR-WAZUH-LAB
 LAB create for Kh4nh
 ```shell
 ├── configs/
