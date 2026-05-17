@@ -1,5 +1,31 @@
 # dfir-wazuh-home-lab
 LAB create for Kh4nh
+dfir-wazuh-home-lab/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── configs/
+│   ├── sysmonconfig.xml
+│   ├── local_rules.xml
+│   └── ossec.conf
+│
+├── scripts/
+│   ├── enable-powershell-logging.ps1
+│   └── generate-test-events.ps1
+│
+├── docs/
+│   ├── architecture.md
+│   └── screenshots/
+│       ├── dashboard-alerts.png
+│       ├── sysmon-events.png
+│       └── powershell-4104.png
+│
+└── detections/
+    ├── powershell-detection.md
+    ├── sysmon-process-create.md
+    └── lolbin-detection.md
 # DFIR Home Lab with Wazuh + Sysmon + Windows Telemetry
 
 ## Overview
