@@ -1,4 +1,4 @@
-# DFIR-WAZUH-LAB
+# <samp>DFIR-WAZUH-LAB<samp>
 LAB create for Kh4nh
 ```shell
 ├── configs/
@@ -12,15 +12,9 @@ LAB create for Kh4nh
 │
 ├── docs/
 │   ├── architecture.md
-│   └── screenshots/
-│       ├── dashboard-alerts.png
-│       ├── sysmon-events.png
-│       └── powershell-4104.png
 │
 └── detections/
     ├── powershell-detection.md
-    ├── sysmon-process-create.md
-    └── lolbin-detection.md
 ```
 # DFIR Home Lab with Wazuh + Sysmon + Windows Telemetry
 
