@@ -1,10 +1,6 @@
 # dfir-wazuh-home-lab
 LAB create for Kh4nh
 ```shell
-├── README.md
-├── LICENSE
-├── .gitignore
-│
 ├── configs/
 │   ├── sysmonconfig.xml
 │   ├── local_rules.xml
