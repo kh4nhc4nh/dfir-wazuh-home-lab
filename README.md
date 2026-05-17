@@ -1,20 +1,21 @@
 # <samp>DFIR-WAZUH-LAB<samp>
 LAB create for Kh4nh
 ```shell
-├── configs/
-│   ├── sysmonconfig.xml
+├── wazuh/
 │   ├── local_rules.xml
 │   └── ossec.conf
 │
-├── scripts/
-│   ├── enable-powershell-logging.ps1
-│   └── generate-test-events.ps1
+├── sysmon/
+│   ├── sysmonconfig.xml
 │
 ├── docs/
-│   ├── architecture.md
+│   ├── troubleshooting.md
+│
+├── powershell/
+│   ├──enable-powershell-logging.ps1
 │
 └── detections/
-    ├── powershell-detection.md
+    ├── notepad-detection.md
 ```
 # DFIR Home Lab with Wazuh + Sysmon + Windows Telemetry
 
