@@ -1,6 +1,6 @@
 # dfir-wazuh-home-lab
 LAB create for Kh4nh
---shell
+```shell
 ├── README.md
 ├── LICENSE
 ├── .gitignore
@@ -25,7 +25,7 @@ LAB create for Kh4nh
     ├── powershell-detection.md
     ├── sysmon-process-create.md
     └── lolbin-detection.md
---shell
+```
 # DFIR Home Lab with Wazuh + Sysmon + Windows Telemetry
 
 ## Overview
