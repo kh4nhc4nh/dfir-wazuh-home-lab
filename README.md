@@ -18,6 +18,7 @@ LAB create for Kh4nh
     ├── notepad-detection.md
 ```
 # DFIR Home Lab with Wazuh + Sysmon + Windows Telemetry
+[image](./image/a.png)
 
 ## Overview
 
