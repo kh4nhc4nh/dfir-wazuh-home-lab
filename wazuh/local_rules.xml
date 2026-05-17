@@ -1,0 +1,14 @@
+<group name="sysmon,windows,powershell">
+
+  <rule id="100500" level="10">
+    <if_group>sysmon_event1</if_group>
+    <field name="win.eventdata.image">notepad.exe</field>
+    <description>Sysmon detected Notepad execution</description>
+  </rule>
+
+  <rule id="100501" level="12">
+    <field name="win.system.eventID">4104</field>
+    <description>PowerShell Script Block Logging Detected</description>
+  </rule>
+
+</group>
